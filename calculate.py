@@ -1,4 +1,4 @@
-###
+### ismy 브랜치의 내용
 def plus(a,b):
     return int(a)+int(b)
 def minus(a,b):
@@ -10,7 +10,7 @@ def divide(a,b):
 
 if __name__ == '__main__':
 
-    ### 사용자 입력
+    ### 사용자 입력 
     print('\n첫번째 숫자를 입력하세요.')
     input1 = input('입력: ')
 
